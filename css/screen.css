@@ -228,6 +228,15 @@ a:hover, a:focus {
     margin-top: 4px;
 }
 
+@media (min-width: 992px) {
+    .c-author {
+        display: block;
+    }
+    .c-author__image {
+        margin-bottom: 20px;
+    }
+}
+
 /*
     Components: Article
 */
