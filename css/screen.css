@@ -100,12 +100,14 @@ img {
 
 h1, h2, h3 {
     color: #17181A;
+    font-family: "Inter UI", Helvetica, sans-serif;
 }
 
 h1 {
     font-size: 36px;
     line-height: 40px;
     margin: 0 0 24px;
+    font-family: "Playfair Display", serif;
 }
 
 h2 {
