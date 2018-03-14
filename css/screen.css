@@ -54,15 +54,15 @@ html {
     /*font-family: "Helvetica Neue", Helvetica, arial, sans-serif;*/
     font-family: "Droid Serif", georgia, serif;
     color: #5C6366;
-    padding: 48px 24px 24px;
+    /* padding: 48px 24px 24px; */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-body {
+/* body {
     max-width: 42em;
     margin: 0 auto;
-}
+} */
 
 /*
  * Remove text-shadow in selection highlight:
@@ -231,7 +231,7 @@ a:hover, a:focus {
 
 @media (min-width: 768px) {
     html {
-        padding: 48px 48px 24px;
+        /* padding: 48px 48px 24px; */
     }
     h1 {
         font-size: 58px;
